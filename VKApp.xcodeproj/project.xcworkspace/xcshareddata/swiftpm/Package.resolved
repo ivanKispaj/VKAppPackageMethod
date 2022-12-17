@@ -1,0 +1,104 @@
+{
+  "pins" : [
+    {
+      "identity" : "authorisation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/Authorisation.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "718b0ce6bb759e6c10c18928ee6cd3f769dea60b"
+      }
+    },
+    {
+      "identity" : "customview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/CustomView.git",
+      "state" : {
+        "revision" : "b247f0965667c172838c0460d031c3105768cb6e",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "friendsscene",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/FriendsScene.git",
+      "state" : {
+        "revision" : "32ad61a300a371533a9c7a08d4c6b2dbdfd5754e",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "groupsscene",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/GroupsScene.git",
+      "state" : {
+        "revision" : "744f93efda0e20fe3355ce9bb289f6e5459f4ed9",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "loadservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/LoadService.git",
+      "state" : {
+        "revision" : "e376b05452d5982b0bc37c069372a3e7d4cc5285",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "b77443ca7fa25407869ca537bf3ae912b1427bff",
+        "version" : "12.13.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "b442ee3e9caa1abab26fd9b23f060f6f0815ff48",
+        "version" : "10.33.0"
+      }
+    },
+    {
+      "identity" : "sidebarmenu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/SideBarmenu.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3f70861b60e1e467d2a2114dfe513c9373ccd368"
+      }
+    },
+    {
+      "identity" : "viewmodifiers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/ViewModifiers.git",
+      "state" : {
+        "revision" : "c94c633dad9f392d9ad85c7481b6c29a557c6a64",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "vkapimethods",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/VKApiMethods.git",
+      "state" : {
+        "revision" : "9a534ae2fe2ebb3adce480f3f9a30e57541a3177",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "vkdatamodel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanKispaj/VKDataModel.git",
+      "state" : {
+        "revision" : "dea89061cd1bf4fd4d080c9bcea12addb3e931fb",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
